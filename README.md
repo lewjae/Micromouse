@@ -8,7 +8,7 @@ The scope of the project is to develop a motion planning algorithm that enables 
 
 #### Method
 
-Used A* like approach for exploring and learning unknown mazes and Dynamic Programming for finding its the fastest path. 
+Used A* like approach for exploring and learning unknown mazes and Dynamic Programming for finding its fastest path. 
 
 #### Usage
 
